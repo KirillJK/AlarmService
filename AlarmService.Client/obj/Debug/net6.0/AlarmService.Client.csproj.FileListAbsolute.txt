@@ -1,0 +1,16 @@
+C:\Repo\AlarmService\AlarmService.Client\bin\Debug\net6.0\AlarmService.Client.deps.json
+C:\Repo\AlarmService\AlarmService.Client\bin\Debug\net6.0\AlarmService.Client.dll
+C:\Repo\AlarmService\AlarmService.Client\bin\Debug\net6.0\AlarmService.Client.pdb
+C:\Repo\AlarmService\AlarmService.Client\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Repo\AlarmService\AlarmService.Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repo\AlarmService\AlarmService.Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.csproj.AssemblyReference.cache
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.AssemblyInfoInputs.cache
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.AssemblyInfo.cs
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.csproj.CoreCompileInputs.cache
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.csproj.CopyComplete
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.dll
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\refint\AlarmService.Client.dll
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\AlarmService.Client.pdb
+C:\Repo\AlarmService\AlarmService.Client\obj\Debug\net6.0\ref\AlarmService.Client.dll

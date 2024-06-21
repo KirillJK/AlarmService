@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2D/jn5NgR6SsNz9pszjdrvKg2FMxlYjxG+IlUXsslTfHvR9884gS1GsysM7/ZRwLATL9gvaUeteYeITn1M8Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\AlarmService\\AlarmService.Web\\AlarmService.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkolesnikov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <button id="alarmButton" type="button" class="btn btn-primary">WAKE UP</button>
+</div>
+
+@section Scripts {
+    <script>
+document.getElementById('alarmButton').addEventListener('click', function() {
+    var alarmButton = this;
+    alarmButton.style.backgroundColor = '#CCCC00';
+    alarmButton.disabled = true;
+    fetch('/home/alarm', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ /* Your POST body data here */ })
+    })
+    .then(response => {
+        if (response.ok) {
+            alarmButton.style.backgroundColor = 'green';
+        } else {
+            alarmButton.style.backgroundColor = 'red';
+        }
+        setTimeout(function() {
+            alarmButton.style.backgroundColor = 'blue';
+            alarmButton.disabled = false;
+        }, 2000);
+        return response.json();
+    })
+    .then(data => console.log(data))
+    .catch((error) => {
+        console.error('Error:', error);
+    });
+});
+    </script>
+}

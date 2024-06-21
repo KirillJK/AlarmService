@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmService.Api", "AlarmService.Api\AlarmService.Api.csproj", "{52C87DFB-A09A-43C6-A7C0-A08078C46C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmService.Web", "AlarmService.Web\AlarmService.Web.csproj", "{D202687E-E30F-47D1-BBEB-D0225812A39E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmService.Common", "AlarmService.Common\AlarmService.Common.csproj", "{DA4C66DF-A388-4850-B663-E1F21EAD059B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmService.Client", "AlarmService.Client\AlarmService.Client.csproj", "{103E954F-11CA-469F-91FA-50A3362B8634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmService.Console", "AlarmService.Console\AlarmService.Console.csproj", "{5179A592-EC5D-4289-ABBE-533C656EFA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C87DFB-A09A-43C6-A7C0-A08078C46C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C87DFB-A09A-43C6-A7C0-A08078C46C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C87DFB-A09A-43C6-A7C0-A08078C46C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C87DFB-A09A-43C6-A7C0-A08078C46C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D202687E-E30F-47D1-BBEB-D0225812A39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D202687E-E30F-47D1-BBEB-D0225812A39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D202687E-E30F-47D1-BBEB-D0225812A39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D202687E-E30F-47D1-BBEB-D0225812A39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4C66DF-A388-4850-B663-E1F21EAD059B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4C66DF-A388-4850-B663-E1F21EAD059B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4C66DF-A388-4850-B663-E1F21EAD059B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4C66DF-A388-4850-B663-E1F21EAD059B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103E954F-11CA-469F-91FA-50A3362B8634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103E954F-11CA-469F-91FA-50A3362B8634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103E954F-11CA-469F-91FA-50A3362B8634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103E954F-11CA-469F-91FA-50A3362B8634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5179A592-EC5D-4289-ABBE-533C656EFA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5179A592-EC5D-4289-ABBE-533C656EFA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5179A592-EC5D-4289-ABBE-533C656EFA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5179A592-EC5D-4289-ABBE-533C656EFA37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
